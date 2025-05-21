@@ -3,7 +3,7 @@
 This repository contains an Excel-based analytical project focused on Atliq Hardwares, an electronic device company facing challenges in business decision-making. The project leverages Microsoft Excel tools to deliver data-driven insights and recommendations.
 
 ## Report View
-![Product-PNL-Report---AtliQ-Hardware](https://github.com/sandhyasingh27/Product-PNL-Report---AtliQ-Hardware/blob/main/Screenshot%202025-05-21%20173843.png)
+![Product-PNL-Report---AtliQ-Hardware](https://github.com/sandhyasingh27/Product-PNL-Report---AtliQ-Hardware/blob/main/Screenshot%202025-05-21%20175838.png)
 
 ## Project Overview
 
