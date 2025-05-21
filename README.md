@@ -2,9 +2,6 @@
 
 This repository contains an Excel-based analytical project focused on Atliq Hardwares, an electronic device company facing challenges in business decision-making. The project leverages Microsoft Excel tools to deliver data-driven insights and recommendations.
 
-## Report View
-![Product-PNL-Report---AtliQ-Hardware](https://github.com/sandhyasingh27/Product-PNL-Report---AtliQ-Hardware/blob/main/Screenshot%202025-05-21%20173843.png)
-
 ## Project Overview
 
 Atliq Hardwares is an e-commerce distributor of electronics such as PCs, laptops, printers, and keyboards. The company is experiencing challenges in maintaining growth and profitability. This project analyzes historical sales and finance data (2020 vs. 2021) to assist with strategic decisions.
@@ -33,6 +30,10 @@ Atliq Hardwares is an e-commerce distributor of electronics such as PCs, laptops
 - Power Query: Data import, transformation (ETL).
 - Power Pivot: Advanced DAX formulas (e.g., fiscal calendars, aggregates).
 - Pivot Tables: Interactive reporting and business summaries.
+
+## Report View
+![alt text](<Screenshot 2025-05-21 173901.png>) ![alt text](<Screenshot 2025-05-21 173843.png>)
+
 
 ## File Structure
 
