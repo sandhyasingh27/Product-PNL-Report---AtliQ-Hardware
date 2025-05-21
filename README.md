@@ -1,4 +1,3 @@
-# Product PNL Report - AtliQ Hardware
 # Atliq Hardwares: Sales and Finance Analytics Project
 
 This repository contains an Excel-based analytical project focused on Atliq Hardwares, an electronic device company facing challenges in business decision-making. The project leverages Microsoft Excel tools to deliver data-driven insights and recommendations.
